@@ -4,7 +4,7 @@ Template for example notebooks to include in pysindy's docs.  The purpose of thi
 To make a new example, follow the instructions on pysindy's README.  Adding an
 example begins here:
 
-1. Clone this repository, changing the project name and description in docs/conf.py
+1. Clone this repository, changing the project name and description in docs/source/conf.py
 1. Save the notebooks in `examples`
 1. Edit the toctree in examples/index.rst, adding each experiment notebook
 1. Add notebook run dependencies to examples/requirements.txt
