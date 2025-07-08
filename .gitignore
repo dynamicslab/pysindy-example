@@ -1,6 +1,7 @@
 .vscode
 todo
 commit-msg
+env*/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
