@@ -8,6 +8,7 @@ example begins here:
 1. Save the notebooks in `examples`
 1. Edit the toctree in examples/index.rst, adding each experiment notebook
 1. Add notebook run dependencies to examples/requirements.txt
+1. Verify the examples run.
 1. Build the documentation and verify it builds without warning or error:
 ```
 pip install -r requirements-docs.txt
