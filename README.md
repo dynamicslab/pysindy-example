@@ -6,6 +6,7 @@ example begins here:
 
 1. Clone this repository, changing the project name and description in docs/source/conf.py
 1. Save the notebooks in `examples`
+1. Remove this readme.md
 1. Edit the toctree in examples/index.rst, adding each experiment notebook
 1. Add notebook run dependencies to examples/requirements.txt
 1. Verify the examples run.
